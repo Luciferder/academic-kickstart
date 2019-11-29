@@ -16,14 +16,25 @@ role: postgraduate student of Machine Learning
 organizations:
 - name: UESTC
   url: "https://en.uestc.edu.cn/"
+  
+ #Supervior
+supervisor:
+- name: Prof. Zenglin Xu
+  url: "http://smilelab.uestc.edu.cn/en/members/xuzenglin/"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natrual laguage processing, knowledge graph, reasoning and multimodality representation.
+bio: My research interests include natrual laguage processing, knowledge graph, logic form reasoning and multimodality representation.
+
+
+
+
+
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neural Network Processing
+- Knowledge Graph
 
 education:
   courses:
@@ -67,6 +78,7 @@ user_groups:
 - Visitors
 ---
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable #matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shuai Yuan is a Master's student of artificial intelligence at the Smile Lab(UESTC). His research interests include natrual laguage processing, knowledge graph at scale, logic form reasoning and multimodality representation learning.
 
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem #nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+
